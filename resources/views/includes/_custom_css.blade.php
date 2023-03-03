@@ -1,0 +1,1 @@
+<link href="{{ asset('/css/toastr/toastr.css') }}" rel="stylesheet" />

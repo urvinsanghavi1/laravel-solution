@@ -1,0 +1,1 @@
+<script src="{{ asset('/js/toastr/toastr.js') }}"></script>
